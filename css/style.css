@@ -11,7 +11,7 @@ body {
 
 .bg-gradient {
     position: fixed;
-    width: 800px;
+    width: 1000px;
     height: 1000px;
     top: 50%;
     left: 50%;
@@ -23,7 +23,7 @@ body {
 .container {
     text-align: center;
     margin: 0 auto;
-    width: 1000px;
+    width: 800px;
     height: 400px;
     position: absolute;
     top: 50%;
